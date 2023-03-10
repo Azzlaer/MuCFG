@@ -1,3 +1,5 @@
+DESCARGA: https://github.com/Azzlaer/MuCFG/tree/master
+
 Changelog 10/08/2017
 Se agregaron mas resoluciones de pantalla
 Se agrego la carga de Efectos desde REGEDIT
